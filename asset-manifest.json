@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/thingz-todo/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/thingz-todo/static/js/main.d284f1f5.chunk.js",
-    "main.js.map": "/thingz-todo/static/js/main.d284f1f5.chunk.js.map",
+    "main.css": "/thingz-todo/static/css/main.fa7b0020.chunk.css",
+    "main.js": "/thingz-todo/static/js/main.f8f5cf17.chunk.js",
+    "main.js.map": "/thingz-todo/static/js/main.f8f5cf17.chunk.js.map",
     "runtime-main.js": "/thingz-todo/static/js/runtime-main.f3ce8659.js",
     "runtime-main.js.map": "/thingz-todo/static/js/runtime-main.f3ce8659.js.map",
-    "static/js/2.b3286008.chunk.js": "/thingz-todo/static/js/2.b3286008.chunk.js",
-    "static/js/2.b3286008.chunk.js.map": "/thingz-todo/static/js/2.b3286008.chunk.js.map",
+    "static/js/2.d06d9a74.chunk.js": "/thingz-todo/static/js/2.d06d9a74.chunk.js",
+    "static/js/2.d06d9a74.chunk.js.map": "/thingz-todo/static/js/2.d06d9a74.chunk.js.map",
     "index.html": "/thingz-todo/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/thingz-todo/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b3286008.chunk.js.LICENSE.txt": "/thingz-todo/static/js/2.b3286008.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/thingz-todo/static/media/logo.6ce24c58.svg"
+    "static/css/main.fa7b0020.chunk.css.map": "/thingz-todo/static/css/main.fa7b0020.chunk.css.map",
+    "static/js/2.d06d9a74.chunk.js.LICENSE.txt": "/thingz-todo/static/js/2.d06d9a74.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3ce8659.js",
-    "static/js/2.b3286008.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d284f1f5.chunk.js"
+    "static/js/2.d06d9a74.chunk.js",
+    "static/css/main.fa7b0020.chunk.css",
+    "static/js/main.f8f5cf17.chunk.js"
   ]
 }
