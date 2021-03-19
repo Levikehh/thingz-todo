@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/thingz-todo/static/css/main.aff5335d.chunk.css",
+    "main.css": "/thingz-todo/static/css/main.fb2289af.chunk.css",
     "main.js": "/thingz-todo/static/js/main.d337cdef.chunk.js",
     "main.js.map": "/thingz-todo/static/js/main.d337cdef.chunk.js.map",
     "runtime-main.js": "/thingz-todo/static/js/runtime-main.f3ce8659.js",
@@ -8,13 +8,13 @@
     "static/js/2.d0348f79.chunk.js": "/thingz-todo/static/js/2.d0348f79.chunk.js",
     "static/js/2.d0348f79.chunk.js.map": "/thingz-todo/static/js/2.d0348f79.chunk.js.map",
     "index.html": "/thingz-todo/index.html",
-    "static/css/main.aff5335d.chunk.css.map": "/thingz-todo/static/css/main.aff5335d.chunk.css.map",
+    "static/css/main.fb2289af.chunk.css.map": "/thingz-todo/static/css/main.fb2289af.chunk.css.map",
     "static/js/2.d0348f79.chunk.js.LICENSE.txt": "/thingz-todo/static/js/2.d0348f79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3ce8659.js",
     "static/js/2.d0348f79.chunk.js",
-    "static/css/main.aff5335d.chunk.css",
+    "static/css/main.fb2289af.chunk.css",
     "static/js/main.d337cdef.chunk.js"
   ]
 }
